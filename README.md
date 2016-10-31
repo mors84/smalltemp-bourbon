@@ -1,6 +1,7 @@
 # Smalltemp
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mors84/smalltemp-bourbon/master/LICENSE)
+[![GitHub release](https://img.shields.io/badge/release-v.1.0.0-brightgreen.svg)](https://github.com/mors84/smalltemp-bourbon/releases)
 
 
 ## About Smalltemp - bourbon
