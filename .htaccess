@@ -1,0 +1,16 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+
+### REWRITE RULES ###
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.yourdomainname.com(.*) [NC]
+RewriteRule ^(.*)$ http://yourdomainname.com/$1 [R=301,L]
+RewriteRule home index.php
+
+
+### ERRORS ###
+ErrorDocument 404 /404.php

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /scss/
+
+sitemap: http://yourdomainname.com/sitemap.xml

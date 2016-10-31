@@ -1,0 +1,40 @@
+/*!
+*   Smalltemp based on Bourbon.
+*
+*   Author: Tomasz Morski
+*   Website: https://github.com/mors84
+*   Email: tomasz.morski@gmail.com
+*   License: MIT License. Copyright (c) 2016 Tomasz Morski.
+*   Description: SASS scaffolding based on:
+    - bourbon (http://bourbon.io/),
+    - neat (http://neat.bourbon.io/),
+    - bitters (http://bitters.bourbon.io/)
+    - normalize (https://necolas.github.io/normalize.css/).
+*
+*/
+
+
+
+
+// fonts
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+// helpers
+@import "vendors/bourbon/bourbon";
+@import "helpers/variables";
+
+// base
+@import "base/normalize";
+@import "vendors/neat/neat";
+@import "base/breakpoints";
+@import "base/typography";
+
+// components
+@import "components/buttons";
+@import "components/forms";
+@import "components/lists";
+@import "components/media";
+@import "components/tables";
+
+// layout
+@import "layout/layout";

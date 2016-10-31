@@ -1,0 +1,32 @@
+# Smalltemp based on Bourbon
+# https://github.com/mors84/smalltemp-bourbon
+# email: tomasz.morski@gmail.com
+
+
+
+/* TEAM */
+
+Your title: Your name.
+Site: email, link to a contact form, etc.
+Twitter: your Twitter username.
+Location: City, Country.
+
+[...]
+
+
+
+/* THANKS */
+
+Name: Thoughtbot, INC. (https://github.com/thoughtbot)
+Name: Nicolas Gallagher (https://github.com/necolas)
+Name: jQuery Foundation (https://github.com/jquery)
+Name: Modernizr (https://github.com/Modernizr)
+
+
+
+/* SITE */
+
+Last update: 2016/10/31
+Standards: HTML5, CSS3, SASS, JAVASCRIPT, PHP
+Components: Modernizr, jQuery, Bourbon, Neat, Bitters, Normalize
+Software: Software used for the development
