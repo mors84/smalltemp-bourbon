@@ -8,7 +8,7 @@
 Template for small project based on simple and lightweight mixin library for Sass - [Bourbon](https://github.com/thoughtbot/bourbon). In the structure there are files that could help you start front-end project.
 
 
-## Why php files in the front-end project?
+## Why php files are in the front-end project?
 
 Split a file into header and footer files will help you build multi pages website. As you wish, include all php files to one index.html and work in static page. If you desire working in php, install Apache HTTP Server or other web server software in your computer.
 
