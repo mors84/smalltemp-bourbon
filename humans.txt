@@ -1,5 +1,5 @@
 # Smalltemp based on Bourbon
-# https://github.com/mors84/smalltemp-bourbon
+# https://github.com/smalltemp/smalltemp-bourbon
 # email: tomasz.morski@gmail.com
 
 
