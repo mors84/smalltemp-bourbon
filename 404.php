@@ -1,9 +1,11 @@
 <?php
-
-    // Complete the meta content.
-    // Warning: Install PHP 7+ or change a constant to variable in meta content.
-    // Array values in define constant are allowed in PHP v7.0.0.
-
+    /**
+ 	 * Complete the meta content.
+     * Warning: Install PHP 7+ or change a constant to variable in meta content.
+     * Array values in define constant are allowed in PHP v7.0.0.
+ 	 *
+ 	 * @var array
+	 */
     define('PAGE',
     [
         'title'         =>  'Error 404 - Page wasn\'t found',
