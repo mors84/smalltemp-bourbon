@@ -23,6 +23,5 @@
         <script src="js/vendors/jquery.min.js"></script>
         <script src="js/vendors/modernizr-custom.js"></script>
         <script src="js/main.js"></script>
-
     </head>
     <body>
