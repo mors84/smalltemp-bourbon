@@ -72,8 +72,12 @@ smalltemp-bourbon/
 
 ## Change log
 
+**v1.0.1 - 02 November, 2016**
+* The license has been changed.
+* Better organization of php code.
+
 **v1.0.0 - 31 October, 2016**
-* initial release
+* Initial release.
 
 
 ## License
